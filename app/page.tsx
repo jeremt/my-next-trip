@@ -1,4 +1,4 @@
-import {db} from "@/lib/db/drizzle";
+import {db} from "@/lib/db/db";
 import {comments, destinations} from "@/lib/db/schema";
 import {eq, sql} from "drizzle-orm";
 
