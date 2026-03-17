@@ -1,0 +1,1 @@
+ALTER TABLE "destinations" ADD COLUMN "price" integer NOT NULL;
